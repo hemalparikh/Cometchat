@@ -77,3 +77,5 @@ HackathonChat fosters a supportive community where beginners can seek advice and
 The user interface of HackathonChat is designed to be intuitive and user-friendly. Whether it's signing up, logging in, managing conversations, or handling group settings, users will find the app easy to navigate and use.
 
 HackathonChat is more than just a communication tool; it is a comprehensive platform designed to enhance the hackathon experience by making team formation, collaboration, and mentorship seamless and efficient.
+
+https://www.mediafire.com/file/aopbjbxtqjad7ml/app-debug.apk/file
